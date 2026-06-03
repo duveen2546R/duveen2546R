@@ -94,19 +94,15 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duveen2546R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duveen2546R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<!-- Using stats.hyochan.dev as a reliable alternative to the rate-limited vercel deployment -->
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duveen2546R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duveen2546R&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
----
-
-## 🔥 Contribution Streak:
-
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=duveen2546R&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=duveen2546R&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -116,7 +112,7 @@
 
 <div align="center">
 
-[![Duveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duveen2546R&bg_color=1a1b27&color=628fdb&line=6e40c9&point=be90f2&area=true&hide_border=false&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Duveen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=duveen2546R&bg_color=1a1b27&color=628fdb&line=6e40c9&point=be90f2&area=true&hide_border=true&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -140,7 +136,25 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=duveen2546R&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=duveen2546R&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧩 LeetCode Stats:
+
+<div align="center">
+
+<!-- Animated LeetCode card — stats + 52-week heatmap -->
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/DKR2546?theme=dark&font=Noto%20Sans&ext=heatmap&animation=true&border=0)](https://leetcode.com/u/DKR2546/)
+
+</div>
+
+<div align="center">
+
+<!-- Recent submission activity — auto-updates from your public profile -->
+[![LeetCode Activity](https://leetcard.jacoblin.cool/DKR2546?theme=dark&font=Noto%20Sans&ext=activity&animation=true&border=0)](https://leetcode.com/u/DKR2546/)
 
 </div>
 
@@ -160,31 +174,21 @@
 
 <div align="center">
 
-### AuctionXI — Real-Time IPL Auction Simulation
-**Tech:** Node.js • Express • React • Socket.io • PostgreSQL
+[![AuctionXI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=duveen2546R&repo=auction-x1&theme=tokyonight&hide_border=true)](https://github.com/duveen2546R/auction-x1)
+[![TradeX](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=duveen2546R&repo=TradeX&theme=tokyonight&hide_border=true)](https://github.com/duveen2546R/TradeX)
 
-[![AuctionXI](https://github-readme-stats.vercel.app/api/pin/?username=duveen2546R&repo=auction-x1&theme=tokyonight&hide_border=false)](https://github.com/duveen2546R/auction-x1)
+</div>
 
-### TradeX — Real-Time Stock Prediction Platform  
-**Tech:** Python • Kafka • Spark • Flask • Vue.js
+<div align="center">
 
-[![TradeX](https://github-readme-stats.vercel.app/api/pin/?username=duveen2546R&repo=TradeX&theme=tokyonight&hide_border=false)](https://github.com/duveen2546R/TradeX)
-
-### SavorGo — Full-Stack Food Delivery App
-**Tech:** Flutter • Flask • Oracle SQL • AWS EC2
-
-[![SavorGo](https://github-readme-stats.vercel.app/api/pin/?username=duveen2546R&repo=SavorGo&theme=tokyonight&hide_border=false)](https://github.com/duveen2546R/SavorGo)
-
-### Car Recommendation System
-**Tech:** Java • Machine Learning • Data Structures
-
-[![Car Recommendation](https://github-readme-stats.vercel.app/api/pin/?username=duveen2546R&repo=Car_Recommendation_System&theme=tokyonight&hide_border=false)](https://github.com/duveen2546R/Car_Recommendation_System)
+[![SavorGo](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=duveen2546R&repo=SavorGo&theme=tokyonight&hide_border=true)](https://github.com/duveen2546R/SavorGo)
+[![Car Recommendation](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=duveen2546R&repo=Car_Recommendation_System&theme=tokyonight&hide_border=true)](https://github.com/duveen2546R/Car_Recommendation_System)
 
 </div>
 
 ---
 
-## 🏅 Competitive Programming & Achievements:
+## 🏅 Competitive Programming:
 
 <div align="center">
 
@@ -196,12 +200,13 @@
 
 ---
 
-## 🎓 Education & Certifications:
+## 🎓 Education:
 
-| Level | Institution | Score | Year | Status |
-|-------|-------------|-------|------|--------|
-| **Bachelor's** | SSN College of Engineering, Chennai | CGPA: **8.42** | 2023-2027 | 🔄 Ongoing |
-| **Certifications** | Data Structures, Advanced DSA, Affective Computing | ✅ Complete | 2024-2025 | ✅ Done |
+| Level | Institution | Score | Year |
+|-------|-------------|-------|------|
+| **B.E. CSE** | SSN College of Engineering, Chennai | CGPA: **8.42** | 2023–2027 🔄 |
+| **Intermediate** | Narayana Junior College, Tirupati | **97.9%** | 2021–2023 ✅ |
+| **Class 10** | Bharatiya Vidya Bhavans, Tirupati | **95.4%** | 2020–2021 ✅ |
 
 ---
 
@@ -209,6 +214,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6e40c9,100:1a1b27&height=100&section=footer&animation=fadeIn"/>
 
-## **Thanks for visiting! Star ⭐ your favorite project and let's build something amazing together 🚀**
+**Thanks for visiting! Star ⭐ your favourite project and let's build something amazing together 🚀**
 
 </div>
