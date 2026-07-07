@@ -18,7 +18,7 @@
 - 🤝 I'm looking to collaborate on **Kafka / Spark / React / Node.js Projects**
 - 🌱 I'm currently learning **System Design, LangChain & LLM-Powered Apps**
 - 🏏 Built a real-time **IPL Auction Platform** before graduating!
-- 💼 Software Developer Intern @ **Fujitsu, Hyderabad** (Jun–Jul 2025)
+- 💼 Software Developer Intern @ **Fujitsu, Hyderabad** (Jun–Jul 2026)
 - 🎓 **B.E. CSE @ SSN College of Engineering, Chennai** | CGPA: **8.42** | Graduating 2027
 - 💬 Ask me about **Java, Python, React, Kafka, Spark, System Design**
 - ⚡ Fun fact: **JEE Mains 93.98 Percentile | 300+ LeetCode Problems Solved**
